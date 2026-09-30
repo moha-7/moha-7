@@ -1,16 +1,30 @@
-## Hi there 👋
+# Mohammed Osama
 
-<!--
-**moha-7/moha-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer building full-stack web and mobile products.
 
-Here are some ideas to get you started:
+I focus on practical product engineering and business systems using modern JavaScript and TypeScript technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Stack
+
+- TypeScript / JavaScript
+- React / Next.js
+- React Native / Expo
+- Node.js
+- PostgreSQL / Prisma
+- REST APIs
+- Testing
+- Docker
+- Git
+
+## Featured Work
+
+- **Jahiz** — Travel readiness & financial decision mobile platform
+- **UGC Talent** — Multi-tenant recruitment management platform
+- **Employee Digital Identity Platform** — QR profile and contact automation system
+
+## Beyond Engineering
+
+Background in multimedia, digital marketing, video production, web platforms, and business workflow automation.
+
+📍 Abu Dhabi, UAE  
+🌍 Open to international opportunities and relocation
