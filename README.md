@@ -18,8 +18,8 @@ I focus on practical product engineering and business systems using modern JavaS
 
 ## Featured Work
 
+- **Merqen — Talent Operations Platform** — Multi-tenant recruitment platform with recruiter and candidate workspaces, RBAC, workflow validation, analytics, and audit-oriented hiring operations. [Live demo](https://merqen-platform-demo.vercel.app) · [Engineering showcase](https://github.com/moha-7/merqen-talent-platform)
 - **Jahiz** — Travel readiness & financial decision mobile platform
-- **UGC Talent** — Multi-tenant recruitment management platform
 - **Employee Digital Identity Platform** — QR profile and contact automation system
 
 ## Beyond Engineering
