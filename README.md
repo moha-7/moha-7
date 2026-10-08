@@ -18,7 +18,7 @@ I focus on practical product engineering and business systems using modern JavaS
 
 ## Featured Work
 
-- **Delyra — Sales & Order Lifecycle Platform** — Full-stack sales operations platform with Mini CRM, pricing, approvals, finance workflows, RBAC, audit history, PostgreSQL, Docker, and Railway deployment. [Live demo](https://delyra-sales-order-platform-production.up.railway.app) · [Repository](https://github.com/moha-7/delyra-sales-order-platform)
+- **Delyra — Sales & Order Lifecycle Platform** — Full-stack sales operations platform with CRM, pricing, approvals, finance workflows, RBAC, audit history, PostgreSQL, Docker, and Railway deployment. [Live demo](https://delyra-sales-order-platform-production.up.railway.app) · [Repository](https://github.com/moha-7/delyra-sales-order-platform)
 
 - **Merqen — Talent Operations Platform** — Multi-tenant recruitment platform with recruiter and candidate workspaces, RBAC, workflow validation, analytics, and audit-oriented hiring operations. [Live demo](https://merqen-platform-demo.vercel.app) · [Repository](https://github.com/moha-7/merqen-talent-platform)
 
