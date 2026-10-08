@@ -18,9 +18,10 @@ I focus on practical product engineering and business systems using modern JavaS
 
 ## Featured Work
 
-- **Merqen — Talent Operations Platform** — Multi-tenant recruitment platform with recruiter and candidate workspaces, RBAC, workflow validation, analytics, and audit-oriented hiring operations. [Live demo](https://merqen-platform-demo.vercel.app) · [Engineering showcase](https://github.com/moha-7/merqen-talent-platform)
-- **Jahiz** — Travel readiness & financial decision mobile platform
-- **Employee Digital Identity Platform** — QR profile and contact automation system
+- **Delyra — Sales & Order Lifecycle Platform** — Full-stack sales operations platform with CRM, pricing, approvals, finance workflows, RBAC, audit history, PostgreSQL, Docker, and Railway deployment. [Live demo](https://delyra-sales-order-platform-production.up.railway.app)
+- **Merqen — Talent Operations Platform** — Multi-tenant recruitment platform with recruiter and candidate workspaces, RBAC, workflow validation, analytics, and audit-oriented hiring operations Live demo: https://merqen-platform-demo.vercel.app.
+- **Jahiz — Travel Readiness & Financial Decision Platform** — Mobile-first travel readiness and financial decision platform built with React Native, Expo, TypeScript, and PostgreSQL.
+- **Employee Digital Identity Platform** — QR-driven digital identity, vCard, and contact automation platform.
 
 ## Beyond Engineering
 
